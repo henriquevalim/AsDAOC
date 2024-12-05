@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Cadeiraaa",
+      "price": 199.9,
+      "description": "Cadeira confortável e bonita",
+      "image": "https://www.tadah.com.br/media/catalog/product/cache/de67ab702de27907f2f76f5431b62993/c/a/cadeira-brasileira-wood-foto-still-perspectiva-web_1_1.jpg"
+    },
+    {
+      "id": "b726",
+      "name": "adwdawsdaadw",
+      "price": "12",
+      "description": "analiseeeee",
+      "image": "https://www.pontotel.com.br/local/wp-content/uploads/2022/05/imagem-corporativa.webp"
+    }
+  ]
+}
